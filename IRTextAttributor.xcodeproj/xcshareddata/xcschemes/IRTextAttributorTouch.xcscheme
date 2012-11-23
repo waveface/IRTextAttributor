@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FFF2237F143774C3001B6773"
-               BuildableName = "libIRTextAttributorTouch.a"
-               BlueprintName = "IRTextAttributorTouch"
+               BuildableName = "libIRTextAttributor.a"
+               BlueprintName = "IRTextAttributor"
                ReferencedContainer = "container:IRTextAttributor.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

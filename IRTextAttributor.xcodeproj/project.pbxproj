@@ -110,9 +110,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		FFF2237F143774C3001B6773 /* IRTextAttributorTouch */ = {
+		FFF2237F143774C3001B6773 /* IRTextAttributor */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FFF2238D143774C3001B6773 /* Build configuration list for PBXNativeTarget "IRTextAttributorTouch" */;
+			buildConfigurationList = FFF2238D143774C3001B6773 /* Build configuration list for PBXNativeTarget "IRTextAttributor" */;
 			buildPhases = (
 				FFF2237C143774C3001B6773 /* Sources */,
 				FFF2237D143774C3001B6773 /* Frameworks */,
@@ -122,7 +122,7 @@
 			);
 			dependencies = (
 			);
-			name = IRTextAttributorTouch;
+			name = IRTextAttributor;
 			productName = IRTextAttributor;
 			productReference = FFF22380143774C3001B6773 /* libIRTextAttributor.a */;
 			productType = "com.apple.product-type.library.static";
@@ -148,7 +148,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FFF2237F143774C3001B6773 /* IRTextAttributorTouch */,
+				FFF2237F143774C3001B6773 /* IRTextAttributor */,
 			);
 		};
 /* End PBXProject section */
@@ -258,7 +258,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FFF2238D143774C3001B6773 /* Build configuration list for PBXNativeTarget "IRTextAttributorTouch" */ = {
+		FFF2238D143774C3001B6773 /* Build configuration list for PBXNativeTarget "IRTextAttributor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FFF2238E143774C3001B6773 /* Debug */,
